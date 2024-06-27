@@ -1,0 +1,21 @@
+Nombre: Peponsio
+Apellido: Ponsio
+Cargo: ceo
+Sueldo bruto: 1818
+Descuento de salud: 1818
+Descuento de afp: 218.16
+Liquido a pagar: 1472.58
+Nombre: Gary
+Apellido: Gya
+Cargo: analista
+Sueldo bruto: 99191
+Descuento de salud: 99191
+Descuento de afp: 11902.92
+Liquido a pagar: 80344.71
+Nombre: Gabo
+Apellido: Bobolon
+Cargo: desarrollador
+Sueldo bruto: 9
+Descuento de salud: 9
+Descuento de afp: 1.08
+Liquido a pagar: 7.289999999999999
